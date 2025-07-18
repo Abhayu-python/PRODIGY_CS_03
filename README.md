@@ -1,6 +1,6 @@
 # PRODIGY_CY_03
 
-# Overview⚙️
+# Overview📚⚙️
 🖥️🖥️Here is the basic keylogger detector, normally detect the keyboard⌨️⌨️ strokes which user inputed during when pc is on working🕹️🕹️
 
 # language used🔧🛠:
@@ -24,4 +24,7 @@ Installation: Infiltrate devices through malicious links, attachments, downloads
 Hooking keyboard input: Intercepting signals before they reach the operating system or application.
 
 
-# 
+# Author:
+Name - Abhay pratap
+
+(Task 3 for internship at Prodigy InfoTech).
