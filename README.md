@@ -30,6 +30,12 @@ Name - Abhay pratap
 (Task 3 for internship at Prodigy InfoTech).
 
 
+# Status✅✅:
+* 📌Quick response
+* 📌Detected key automaticaly saved in file with name
+* 📌Detect each and every strokes of keyboard fastly
+
+
 # Contact📌☎️:
 [LinkedIn](https://www.linkedin.com/in/ap-saini-5aa231302/)
 
